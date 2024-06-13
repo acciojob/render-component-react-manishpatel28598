@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div id="main">
       <h1>render-component</h1>
-      <p>I am larning React. My life is getting better.</p>
+      <p>I am learning React. My life is getting better.</p>
     </div>
   )
 }
