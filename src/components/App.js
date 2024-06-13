@@ -3,7 +3,10 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="main"></div>
+    <div id="main">
+      <h1>render-component</h1>
+      <p>I am larning React. My life is getting better.</p>
+    </div>
   )
 }
 
